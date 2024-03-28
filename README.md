@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make games in Unity;
 - 💞️ I’m looking to collaborate on anything really;
 - 📫 How to reach me nicholaspopusoi@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: Fire/ball
 - ⚡ Fun fact: Part time shadow wizard
 
 <!---
