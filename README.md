@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything really;
 - 📫 How to reach me nicholaspopusoi@gmail.com
 - 😄 Pronouns: Fire/ball
-- ⚡ Fun fact: Part time shadow wizard
+- ⚡ Fun fact: Depending on which chemicals you use , the fire can have multiple colors
 
 <!---
 NICKFALCXNE/NICKFALCXNE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
