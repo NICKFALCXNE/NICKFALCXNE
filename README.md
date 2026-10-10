@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @NICKFALCXNE
 - 👀 I’m interested in art , video games;
-- 🌱 I’m currently learning how to make games in Unity;
-- 💞️ I’m looking to collaborate on anything really;
 - 📫 How to reach me nicholaspopusoi@gmail.com
 - 😄 Pronouns: Fire/ball
-- ⚡ Fun fact: Depending on which chemicals you use , the fire can have multiple colors
+- ⚡ Fun fact: The color of a fire can change when specific metal salts and chemical compounds are introduced into the flame.
 
 <!---
 NICKFALCXNE/NICKFALCXNE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
